@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="b171a4d0-0ee0-4-231-b9ee" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\tomfitz\\Downloads\\ASP\.NET\ MVC\ Application\ Using\ Entity\ Framework\ Code\ First\\C\#\\ContosoUniversity\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\tomfitz\\Downloads\\ASP\.NET\ MVC\ Application\ Using\ Entity\ Framework\ Code\ First\\C\#\\ContosoUniversity\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="Add write permission to App_Data Folder" description="Add write permission to App_Data folder" value="b171a4d0-0ee0-4-231-b9ee/App_Data" tags="Hidden">
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\tomfitz\\Downloads\\ASP\.NET\ MVC\ Application\ Using\ Entity\ Framework\ Code\ First\\C\#\\ContosoUniversity\\obj\\Release\\Package\\PackageTmp\\App_Data$" />
+  </parameter>
+  <parameter name="SchoolContext-Web.config Connection String" description="" value="Data Source=|DataDirectory|\ContosoUniversity.sdf" tags="">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\tomfitz\\Downloads\\ASP\.NET\ MVC\ Application\ Using\ Entity\ Framework\ Code\ First\\C\#\\ContosoUniversity\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='SchoolContext']/@connectionString" />
+  </parameter>
+</parameters>
