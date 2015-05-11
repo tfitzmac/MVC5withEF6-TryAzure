@@ -203,6 +203,8 @@
     <None Include="Properties\PublishProfiles\65f70547-0ee0-4-231-b9ee - Web Deploy.pubxml" />
     <None Include="Properties\PublishProfiles\b171a4d0-0ee0-4-231-b9ee - FTP.pubxml" />
     <None Include="Properties\PublishProfiles\b171a4d0-0ee0-4-231-b9ee - Web Deploy.pubxml" />
+    <None Include="Properties\PublishProfiles\cbc153b7-0ee0-4-231-b9ee - FTP.pubxml" />
+    <None Include="Properties\PublishProfiles\cbc153b7-0ee0-4-231-b9ee - Web Deploy.pubxml" />
     <None Include="_bin_deployableAssemblies\x86\sqlcese40.dll" />
     <None Include="_bin_deployableAssemblies\x86\sqlceqp40.dll" />
     <None Include="_bin_deployableAssemblies\x86\sqlceme40.dll" />

@@ -2,7 +2,7 @@
 <Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <ProjectView>ShowAllFiles</ProjectView>
-    <NameOfLastUsedPublishProfile>b171a4d0-0ee0-4-231-b9ee - Web Deploy</NameOfLastUsedPublishProfile>
+    <NameOfLastUsedPublishProfile>cbc153b7-0ee0-4-231-b9ee - Web Deploy</NameOfLastUsedPublishProfile>
   </PropertyGroup>
   <ProjectExtensions>
     <VisualStudio>

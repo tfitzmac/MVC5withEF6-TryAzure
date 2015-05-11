@@ -24,7 +24,6 @@ namespace ContosoUniversity.DAL
                     .MapRightKey("InstructorID")
                     .ToTable("CourseInstructor"));
 
-            modelBuilder.Entity<Department>().MapToStoredProcedures();
         }
     }
 }
